@@ -1,6 +1,6 @@
 # SAS
 Smart Attendance System
-This application lets you takes attendence is a very smart and efficient way
+This application lets you takes attendance is a very smart and efficient way
 
 Tech Stack:
 1) Android
